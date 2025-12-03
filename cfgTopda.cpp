@@ -11,7 +11,7 @@ static string state_name(State s) {
         case Q3: return "q3";
         default: return "?";
     }
-}`
+}
 
 static string stack_to_string(const stack<char> &st) {
 
