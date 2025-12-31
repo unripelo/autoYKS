@@ -3,4 +3,4 @@
 just random c++ plus from the subject automata
 
 # note
-do not judge pls </33
+tnx sir junar salamat sa tanan 
